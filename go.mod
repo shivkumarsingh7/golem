@@ -1,3 +1,3 @@
-module github.com/aaaton/golem
+module github.com/shivkumarsingh7/golem
 
 go 1.12
